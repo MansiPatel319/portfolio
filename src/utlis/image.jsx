@@ -23,7 +23,7 @@ import react  from '../assets/images/technologies/react.png';
 import angular  from '../assets/images/technologies/angular.png';
 import typescript  from '../assets/images/technologies/typescript.png';
 import vue from '../assets/images/technologies/vue.png';
-import laravel from '../assets/images/technologies/laravel.png';
+import java from '../assets/images/technologies/java.png';
 import node  from '../assets/images/technologies/node.png';
 import mysql  from '../assets/images/technologies/mysql.png';
 import mongodb  from '../assets/images/technologies/mongodb.png';
@@ -56,7 +56,7 @@ const Images = {
     angular,
     typescript,
     vue,
-    laravel,
+    java,
     node,
     mysql,
     mongodb,

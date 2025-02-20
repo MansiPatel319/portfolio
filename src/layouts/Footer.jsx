@@ -8,7 +8,7 @@ export default function footer() {
           rel="noreferrer noopener"
           className="font-bold hover:text-medium-gray"
         >
-          Vivek Patel
+          Mansi Patel
         </a>
         .
       </p>

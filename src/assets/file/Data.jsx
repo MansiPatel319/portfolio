@@ -72,8 +72,8 @@ const technologies = [
         icon: Images.vue,
     },
     {
-        name: "Laravel",
-        icon: Images.laravel,
+        name: "Java",
+        icon: Images.java,
     },
     {
         name: "Node JS",
@@ -211,15 +211,15 @@ const testimonials = [
 const projects =  [
                   {
                     "id": 1,
-                    "name": "WordPress Travel & eCommerce Platform",
-                    "description": "A custom WordPress travel and eCommerce solution with WooCommerce and advanced booking capabilities.",
+                    "name": "Creator Class",
+                    "description": "CreatorClasses.co is an online learning platform for content creators, focusing on photography, videography, and social media growth.",
                     "tags": [
-                      { "name": "WordPress", "color": "blue-text-gradient" },
-                      { "name": "WooCommerce", "color": "green-text-gradient" },
+                      { "name": "ReactJs", "color": "blue-text-gradient" },
+                      { "name": "Learning Platform", "color": "green-text-gradient" },
                       { "name": "Elementor", "color": "pink-text-gradient" }
                     ],
                     "image": "Images.wordpress1",
-                    "source_code_link": "https://citysightseeingtoronto.com/"
+                    "source_code_link": "https://creatorclasses.co/"
                   },
                   {
                     "id": 2,
@@ -235,15 +235,15 @@ const projects =  [
                   },
                   {
                     "id": 3,
-                    "name": "WordPress Education & LMS Platform",
+                    "name": "YouHue Education & LMS Platform",
                     "description": "An online learning management system (LMS) using WordPress, LearnDash, and custom integrations.",
                     "tags": [
-                      { "name": "WordPress", "color": "blue-text-gradient" },
+                      { "name": "React", "color": "blue-text-gradient" },
                       { "name": "LMS", "color": "green-text-gradient" },
                       { "name": "LearnDash", "color": "pink-text-gradient" }
                     ],
                     "image": "Images.wordpress3",
-                    "source_code_link": "https://www.embark.ca/"
+                    "source_code_link": "https://app.youhue.com/"
                   },
                   {
                     "id": 4,
@@ -255,7 +255,7 @@ const projects =  [
                       { "name": "eCommerce", "color": "orange-text-gradient" }
                     ],
                     "image": "Images.shopify",
-                    "source_code_link": "https://www.momilash.ca/"
+                    "source_code_link": "https://voyagecontrol.com/"
                   },
                   {
                     "id": 5,
@@ -267,7 +267,7 @@ const projects =  [
                       { "name": "MySQL", "color": "orange-text-gradient" }
                     ],
                     "image": "Images.php_vue",
-                    "source_code_link": "https://shakaguide.com"
+                    "source_code_link": ""
                   },
                   {
                     "id": 6,
@@ -283,15 +283,15 @@ const projects =  [
                   },
                   {
                     "id": 7,
-                    "name": "Python Django Finance & Healthcare App",
-                    "description": "A web application for finance and healthcare data processing using Python, Django, and React.",
+                    "name": "Python Django Finance Infastructure provider App",
+                    "description": "A web application for finance data processing using Python, Django, and React.",
                     "tags": [
                       { "name": "Python", "color": "blue-text-gradient" },
                       { "name": "Django", "color": "green-text-gradient" },
                       { "name": "React", "color": "orange-text-gradient" }
                     ],
                     "image": "Images.python_django",
-                    "source_code_link": ""
+                    "source_code_link": "https://www.tarrakki.com/"
                   },
                   {
                     "id": 8,

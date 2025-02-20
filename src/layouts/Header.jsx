@@ -19,7 +19,7 @@ export default function Header() {
           height={26}
           className={`${styles.transition} dark:filter-logo-white mt-[0.3125rem]`}
         /> */}
-        Vivek Patel
+        Mansi Patel
       </a>
       <Navbar toggleMenu={toggleMenu} isMenuOpen={isMenuOpen} />
     </header>
