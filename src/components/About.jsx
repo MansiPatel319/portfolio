@@ -1,6 +1,5 @@
 import { React } from "react";
 import {Images} from '../utlis/image';
-import {EarthCanvas} from '../components/canvas/earth';
 
 export default function About() {
   return (
